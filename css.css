@@ -41,6 +41,7 @@ body {
 .header-links a {
     text-decoration: none;
     padding: 10px;
+    color: #262626;
 }
 
 .header-links a:visited {
